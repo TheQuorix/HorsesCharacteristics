@@ -1,0 +1,14 @@
+name: HorsesCharacteristics
+version: '1.0'
+main: org.quorix.horsesCharacteristics.HorsesCharacteristics
+api-version: '1.21'
+authors: [ Quorix ]
+commands:
+  horse_characteristics_reload:
+    aliases:
+      - hc
+      - horcecharacteristics
+      - hcr
+      - horcecharacteristicsreload
+      - horse_characteristics
+    permission: horse_characteristics.reload

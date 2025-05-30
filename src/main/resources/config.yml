@@ -1,0 +1,3 @@
+messages:
+  horse_information: "<gray><yellow>Speed - %speed%</yellow> | <red>Health - %health% / %max_health%</red> | <green>Jump Strength - %jump_strength%</green></gray>"
+  reload_success: "<green>Plugin successfully reloaded</green>"
